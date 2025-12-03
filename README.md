@@ -22,10 +22,10 @@ Perang Aliansi Terakhir (*The Last Alliance*) sedang berkecamuk. Tugas utama kam
 ## I. Topologi & Perencanaan Jaringan
 
 ### 1. Topologi GNS3
-![Topologi GNS3](https://github.com/user-attachments/assets/LINK_GAMBAR_TOPOLOGI_ANDA_DISINI)
+<img width="1378" height="776" alt="image" src="https://github.com/user-attachments/assets/77ee5704-b5d0-4e4a-901f-bb23fc976525" />
 
 ### 2. Tree Diagram (VLSM)
-![Tree VLSM](https://github.com/user-attachments/assets/LINK_GAMBAR_TREE_VLSM_ANDA_DISINI)
+<img width="565" height="587" alt="image" src="https://github.com/user-attachments/assets/75cca7fb-a127-4a89-97a9-32bb5ae12673" />
 
 ### 3. Pembagian IP (VLSM)
 Kami menggunakan teknik **VLSM (Variable Length Subnet Mask)** untuk mengalokasikan IP seefisien mungkin berdasarkan kebutuhan host terbesar ke terkecil.
